@@ -1,0 +1,8 @@
+{
+  "name": "StudyFlow",
+  "description": "A minimal, pastel-themed study companion with local-first data, AI syllabus generation, focus timer, and doubt solving.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
